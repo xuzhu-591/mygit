@@ -1,3 +1,3 @@
-This is a readme txt.
-git is a version control system.
+This is a readme file:
+git is a contributed version control system.
 git is a free software.
